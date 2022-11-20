@@ -5,7 +5,7 @@ import FooterBox from "./components/footerBox";
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import IsAddress from "./components/isAddress";
 import ToCheckSumAddress from "./components/toCheckSumAddress";
-import CheckAddressChecksum from "./components/CheckAddressChecksum";
+// import CheckAddressChecksum from "./components/CheckAddressChecksum";
 import ToWei from "./components/toWei";
 import FromWei from "./components/fromWei";
 import GlobalStyle from "./utils/GloablStyle";
