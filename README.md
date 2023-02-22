@@ -1,5 +1,6 @@
 # ethers-tool
 
+Online web3 tools using ethers.js
 
 ## Available Scripts
 
